@@ -1,0 +1,74 @@
+{
+    "Navbar": {
+        "Ethiopian Islamic Teaching Association": "مؤسسة إثيوية للتعاليم الإسلامية",
+        "Home": "الأصل",
+        "About Us": "معلومات عنا",
+        "Courses": "الدورات",
+        "Resources": "موارد",
+        "Services": "خدمات",
+        "University": "جامعة",
+        "Contact Us": "اتصل بنا",
+        "Admin": "مسؤل",
+        "English": "إنجليزي",
+        "Arabic": "عربي",
+        "Amharic": "الأمهرية"
+    },
+    "Dashboard": {
+        "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding": "قوّو أذهانكم باالعلم الإسلامي القديم ونرقي أمة العلم والفهم السليم",
+        "Welcome to the Ethiopian Islamic Teaching Organization": "مرحبا بكم إلى المؤسسة إثيوية للتعاليم الإسلامية",
+        "Learn More": "أدركو كثيرا"
+    },
+    "DashContinue": {
+        "Our Mission": "مهمتنا",
+       "To disseminate authentic Islamic knowledge and foster a deeper understanding of the principles of Islam through structured learning and community engagement": "نشر المعرفة الإسلامية الأصيلة وتعزيز فهم أعمق لمبادئ الإسلام من خلال التعلم المنظم والمشاركة المجتمعية",
+       "Discover More": "اكتشف المزيد",
+       "Our Vision": "رؤيتنا",
+       "To be a leading organization in Islamic education, inspiring individuals to embody Islamic values in their daily lives and contribute positively to society": "أن نكون مؤسسة رائدة في مجال التربية الإسلامية، وملهمة الأفراد لتجسيد القيم الإسلامية في حياتهم اليومية والمساهمة بشكل إيجابي في المجتمع",
+       "Explore Our Vision": "استكشاف رؤيتنا",
+       "Our Values": "قيمنا",
+       "We uphold integrity, respect, and inclusivity, ensuring that our teachings are accessible to all, regardless of background or prior knowledge": "نحن نتمسك بالنزاهة والاحترام والشمولية، مما يضمن أن تعاليمنا متاحة للجميع، بغض النظر عن الخلفية أو المعرفة السابقة",
+       "Learn About Our Values": "تعرف على قيمنا",
+       "Explore Our Courses": "استكشاف دوراتنا",
+       "Engage with our comprehensive curriculum designed for learners at all levels": "شارك في مناهجنا الدراسية الشاملة المصممة للمتعلمين على جميع المستويات",
+       "Introduction to Islamic studies": "مقدمة في الدراسات الإسلامية",
+       "This foundational course covers the basics of Islamic beliefs, practices, and history, providing a solid grounding for further study": "تغطي هذه الدورة التأسيسية أساسيات المعتقدات والممارسات والتاريخ الإسلامي، مما يوفر أساسًا متينًا لمزيد من الدراسة",
+       "Advanced Islamic Studies": "الدراسات الإسلامية المتقدمة",
+       "Delve Deeper into the islamic studies with this advanced course that explores advanced islamic rules, arabic language and quran and hadith translation": "تعمق أكثر في الدراسات الإسلامية من خلال هذه الدورة المتقدمة التي تستكشف القواعد الإسلامية المتقدمة واللغة العربية وترجمة القرآن والحديث",
+       "Islamic Ethics and Morality": "الأخلاق الإسلامية",
+       "This course examines the ethical principles in Islam and their application in contemporary society, encouraging critical thinking and personal development": "يتناول هذا المقرر المبادئ الأخلاقية في الإسلام وتطبيقها في المجتمع المعاصر، وتشجيع التفكير النقدي والتنمية الشخصية",
+       "Get Involved": "التورط",
+       "Stay Updated With Our Events": "ابق على اطلاع بأحداثنا",
+       "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "انضم إلينا لإثراء الندوات والفعاليات التي تعمق فهمك للتعاليم الإسلامية"
+    },
+    "AboutUs": {
+        "About us page": "صفحة عنا"
+    },
+    "Courses": {
+        "Courses page": "صفحة الدورات"
+    },
+    "Resources": {
+        "Resources page": "صفحة الموارد"
+    },
+    "Services": {
+        "service page": "صفحة الخدمة"
+    },
+    "University": {
+        "University page": "صفحة الجامعة"
+    },
+    "Contacts": {
+        "contacts page": "صفحة جهات الاتصال"
+    },
+    "Admin": {
+        "Admin Page": "صفحة المشرف"
+    },
+    "footer": {
+        "Donation to EITA": "التبرع لـ EITA",
+        "Membership to EITA": "العضوية في EITA",
+        "Donate": "تبرع",
+        "Free Membership": "عضوية مجانية",
+        "Paid Membership": "العضوية المدفوعة",
+        "Donate for your wealthiness in the life of heaven: Donate for the sake of Allah": "تبرع لغناك في الجنة : تبرع في سبيل الله",
+        "Be a member of our islamic community so you won't lose any updates about the islamic world": "كن عضوًا في مجتمعنا الإسلامي حتى لا تفقد أي تحديثات حول العالم الإسلامي"
+    }
+    
+}

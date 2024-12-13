@@ -1,0 +1,73 @@
+{
+    "Navbar": {
+        "Ethiopian Islamic Teaching Association": "Ethiopian Islamic Teaching Association",
+        "Home": "Home",
+        "About Us": "About Us",
+        "Courses": "Courses",
+        "Resources": "Resources",
+        "Services": "Services",
+        "University": "University",
+        "Contact Us": "Contacts Us",
+        "Admin": "Admin",
+        "English": "English",
+        "Arabic": "Arabic",
+        "Amharic": "Amharic"
+    },
+    "Dashboard": {
+        "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding": "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding",
+        "Welcome to the Ethiopian Islamic Teaching Organization": "Welcome to the Ethiopian Islamic Teaching Organization",
+        "Learn More": "Learn More"
+    },
+    "DashContinue": {
+       "Our Mission": "Our Mission",
+       "To disseminate authentic Islamic knowledge and foster a deeper understanding of the principles of Islam through structured learning and community engagement": "To disseminate authentic Islamic knowledge and foster a deeper understanding of the principles of Islam through structured learning and community engagement",
+       "Discover More": "Discover More",
+       "Our Vision": "Our Vision",
+       "To be a leading organization in Islamic education, inspiring individuals to embody Islamic values in their daily lives and contribute positively to society": "To be a leading organization in Islamic education, inspiring individuals to embody Islamic values in their daily lives and contribute positively to society",
+       "Explore Our Vision": "Explore Our Vision",
+       "Our Values": "Our Values",
+       "We uphold integrity, respect, and inclusivity, ensuring that our teachings are accessible to all, regardless of background or prior knowledge": "We uphold integrity, respect, and inclusivity, ensuring that our teachings are accessible to all, regardless of background or prior knowledge",
+       "Learn About Our Values": "Learn About Our Values",
+       "Explore Our Courses": "Explore Our Courses",
+       "Engage with our comprehensive curriculum designed for learners at all levels": "Engage with our comprehensive curriculum designed for learners at all levels",
+       "Introduction to Islamic studies": "Introduction to Islamic studies",
+       "This foundational course covers the basics of Islamic beliefs, practices, and history, providing a solid grounding for further study": "This foundational course covers the basics of Islamic beliefs, practices, and history, providing a solid grounding for further study",
+       "Advanced Islamic Studies": "Advanced Islamic Studies",
+       "Delve Deeper into the islamic studies with this advanced course that explores advanced islamic rules, arabic language and quran and hadith translation": "Delve Deeper into the islamic studies with this advanced course that explores advanced islamic rules, arabic language and quran and hadith translation",
+       "Islamic Ethics and Morality": "Islamic Ethics and Morality",
+       "This course examines the ethical principles in Islam and their application in contemporary society, encouraging critical thinking and personal development": "This course examines the ethical principles in Islam and their application in contemporary society, encouraging critical thinking and personal development",
+       "Get Involved": "Get Involved",
+       "Stay Updated With Our Events": "Stay Updated With Our Events",
+       "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "Join us for enriching seminars and events that deepen your understanding of Islamic teachings"
+    },
+    "AboutUs": {
+        "About us page": "About us page"
+    },
+    "Courses": {
+        "Courses page": "Courses page"
+    },
+    "Resources": {
+        "Resources page": "Resources page"
+    },
+    "Services": {
+        "service page": "service page"
+    },
+    "University": {
+        "University page": "University page"
+    },
+    "Contacts": {
+        "contacts page": "contacts page"
+    },
+    "Admin": {
+        "Admin Page": "Admin Page"
+    },
+    "footer": {
+        "Donation to EITA": "Donation to EITA",
+        "Membership to EITA": "Membership to EITA",
+        "Donate": "Donate",
+        "Free Membership": "Free Membership",
+        "Paid Membership": "Paid Membership",
+        "Donate for your wealthiness in the life of heaven: Donate for the sake of Allah": "Donate for your wealthiness in the life of heaven: Donate for the sake of Allah.",
+        "Be a member of our islamic community so you won't lose any updates about the islamic world": "Be a member of our islamic community so you won't lose any updates about the islamic world."
+    }
+}

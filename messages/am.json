@@ -1,0 +1,74 @@
+{
+    "Navbar": {
+        "Ethiopian Islamic Teaching Association": "የኢትዮጵያ እስልምና አስተምህሮ ማህበር",
+        "Home": "መነሻ",
+        "About Us": "ስለ እኛ",
+        "Courses": "ኮርሶች",
+        "Resources": "ሀብቶች",
+        "Services": "አገልግሎቶች",
+        "University": "ዩኒቨርሲቲ",
+        "Contact Us": "አግኙን",
+        "Admin": "አስተዳዳሪ",
+        "English": "እንግሊዝኛ",
+        "Arabic": "አረብኛ",
+        "Amharic": "አማርኛ"
+    },
+    "Dashboard" : {
+        "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding": "ኑ እራሳችሁን በኢስላማዊ እውቀት አሳድጉ ፤ የአዋቂዎችንና የብልሆችን ማህበረሰብ እንቀላቀል ፡፡ ",
+        "Welcome to the Ethiopian Islamic Teaching Organization": "ወደ የኢትዮጲያ ኢስላማዊ አስተምህሮት ማህበር እንኳን ደህና መጡ ፡፡ ",
+        "Learn More": "የበለጠ ለመረዳት"
+    },
+    "DashContinue": {
+       "Our Mission": "የእኛ ተልዕኮ",
+       "To disseminate authentic Islamic knowledge and foster a deeper understanding of the principles of Islam through structured learning and community engagement": "ትክክለኛ ኢስላማዊ እውቀትን ለማዳረስ እና የእስልምናን መርሆች በተቀናጀ ትምህርት እና በማህበረሰብ ተሳትፎ ጥልቅ ግንዛቤን ለማዳበር",
+       "Discover More": "የበለጠ አግኝ",
+       "Our Vision": "የእኛ እይታ",
+       "To be a leading organization in Islamic education, inspiring individuals to embody Islamic values in their daily lives and contribute positively to society": "ግለሰቦች በዕለት ተዕለት ሕይወታቸው ኢስላማዊ እሴቶችን እንዲያሳድጉ እና ለህብረተሰቡ አዎንታዊ አስተዋፅኦ እንዲያበረክቱ በማነሳሳት በኢስላማዊ ትምህርት ውስጥ ግንባር ቀደም ድርጅት መሆን",
+       "Explore Our Vision": "ራዕያችንን ማሰስ",
+       "Our Values": "እሴቶቻችን",
+       "We uphold integrity, respect, and inclusivity, ensuring that our teachings are accessible to all, regardless of background or prior knowledge": "ከየትኛውም የኋላ ታሪክ ወይም ቀደምት እውቀት ምንም ይሁን ምን ትምህርቶቻችን ለሁሉም ተደራሽ መሆናቸውን በማረጋገጥ ታማኝነትን፣ አክብሮትን እና አካታችነትን እናረጋግጣለን።",
+       "Learn About Our Values": "ስለ እሴቶቻችን ይወቁ",
+       "Explore Our Courses": "ኮርሶቻችንን ያስሱ",
+       "Engage with our comprehensive curriculum designed for learners at all levels": "በሁሉም ደረጃ ላሉ ተማሪዎች በተዘጋጀው ሁሉን አቀፍ ሥርዓተ ትምህርታችንን ይሳተፉ",
+       "Introduction to Islamic studies": "የእስልምና ጥናቶች መግቢያ",
+       "This foundational course covers the basics of Islamic beliefs, practices, and history, providing a solid grounding for further study": "ይህ የመሠረት ኮርስ የእስልምና እምነቶችን፣ ልማዶችን እና ታሪክን መሰረታዊ ነገሮች ይሸፍናል፣ ለተጨማሪ ጥናት ጠንካራ መሰረት ይሰጣል።",
+       "Advanced Islamic Studies": "የላቁ ኢስላማዊ ጥናቶች",
+       "Delve Deeper into the islamic studies with this advanced course that explores advanced islamic rules, arabic language and quran and hadith translation": "የላቁ እስላማዊ ህጎችን፣ አረብኛ ቋንቋን እና ቁርኣንን እና የሀዲስ ትርጉምን በሚዳስሰው በዚህ የላቀ ኮርስ ወደ እስላማዊ ጥናቶች በጥልቀት ይግቡ።",
+       "Islamic Ethics and Morality": "ኢስላማዊ ስነምግባር",
+       "This course examines the ethical principles in Islam and their application in contemporary society, encouraging critical thinking and personal development": "ይህ ኮርስ በእስልምና ውስጥ ያሉትን የስነምግባር መርሆዎች እና በዘመናዊው ማህበረሰብ ውስጥ አተገባበርን ይመረምራል, ሂሳዊ አስተሳሰብን እና የግል እድገትን ያበረታታል፡፡",
+       "Get Involved": "ተሳተፉ",
+       "Stay Updated With Our Events": "ስለ ዝግጅቶቻችን መረጃ እናድርሳችሁ",
+       "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "ስለ ኢስላማዊ አስተምህሮዎች ያለዎትን ግንዛቤ የሚያጎለብቱ ሴሚናሮችን እና ዝግጅቶችን ይቀላቀሉን።"
+    },
+    "AboutUs": {
+        "About us page": "ስለ እኛ ገጽ"
+    },
+    "Courses": {
+        "Courses page": "የኮርሶች ገጽ"
+    },
+    "Resources": {
+        "Resources page": "ሀብቶች ገጽ"
+    },
+    "Services": {
+        "service page": "የአገልግሎት ገጽ"
+    },
+    "University": {
+        "University page": "ዩኒቨርሲቲ ገጽ"
+    },
+    "Contacts": {
+        "contacts page": "የእውቂያዎች ገጽ"
+    },
+    "Admin": {
+        "Admin Page": "የአስተዳዳሪ ገጽ"
+    },
+    "footer": {
+        "Donation to EITA": "ለ ኢኢአማ ልገሳ",
+        "Membership to EITA": "የ ኢኢአማ አባልነት",
+        "Donate": "ለግሱ",
+        "Free Membership": "ነጻ አባልነት",
+        "Paid Membership": "የሚከፈልበት አባልነት",
+        "Donate for your wealthiness in the life of heaven: Donate for the sake of Allah": "በኢኽላስ ለአኺራችሁ ለግሱ።",
+        "Be a member of our islamic community so you won't lose any updates about the islamic world": "ስለ እስላማዊው አለም ምንም አይነት መረጃ እንዳያጡ የኛ እስላማዊ ማህበረሰብ አባል ይሁኑ ።"
+    }
+    
+}
