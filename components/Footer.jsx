@@ -9,9 +9,9 @@ const Footer = () => {
   const t = useTranslations("footer")
 
   return (
-    <div className='my-10 flex flex-col gap-10 p-5'>
+    <div className='flex flex-col gap-16 p-5 bg-zinc-400 mt-28'>
       <div className='flex justify-between items-center'>
-        <Image src="/assets/EITA.png" alt="EITA" height={100} width={100}/>
+        <Image src="/assets/EITA.png" alt="EITA" height={100} width={100} className='rounded-full'/>
         <ul className='flex gap-10'>
             <li>
               <Link href=''>
@@ -42,7 +42,7 @@ const Footer = () => {
             {t("Donate for your wealthiness in the life of heaven: Donate for the sake of Allah")}
           </p>
           <Link 
-          className='text-red-400 pl-[100%] text-lg'
+          className='text-red-700 pl-[100%] text-lg'
           href=''>{t("Donate")}</Link>
          </div>
          <div className='w-[35%] flex flex-col gap-5'>
@@ -52,10 +52,10 @@ const Footer = () => {
           </p>
           <div className='flex gap-24'>
             <Link 
-            className='text-red-400 text-lg'
+            className='text-red-700 text-lg'
             href=''>{t("Paid Membership")}</Link>
             <Link 
-            className='text-red-400 text-lg'
+            className='text-red-700 text-lg'
             href=''>{t("Free Membership")}</Link>
           </div>
          </div>

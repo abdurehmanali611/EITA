@@ -8,8 +8,10 @@ const Dashboard = () => {
   const navigation = useRouter()
 
   return (
-    <div className='flex flex-col gap-10'>
-        <div className='flex flex-col gap-5 text-center w-[50%] self-center h-full pt-28'>
+    <div 
+    style={{backgroundImage: `url(${'/assets/background.jpg'})`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundSize: '100%'}}
+    className='flex flex-col gap-10 h-[500px] justify-center'>
+        <div className='flex flex-col gap-5 text-center w-[50%] self-center'>
             <p className='font-mono text-lg'>
              {t("Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding")}
             </p>

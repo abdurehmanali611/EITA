@@ -9,9 +9,9 @@
         "University": "جامعة",
         "Contact Us": "اتصل بنا",
         "Admin": "مسؤل",
-        "English": "إنجليزي",
+        "English": "English",
         "Arabic": "عربي",
-        "Amharic": "الأمهرية"
+        "Amharic": "አማርኛ"
     },
     "Dashboard": {
         "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding": "قوّو أذهانكم باالعلم الإسلامي القديم ونرقي أمة العلم والفهم السليم",
@@ -41,7 +41,28 @@
        "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "انضم إلينا لإثراء الندوات والفعاليات التي تعمق فهمك للتعاليم الإسلامية"
     },
     "AboutUs": {
-        "About us page": "صفحة عنا"
+        "Welcome to the Islamic Teaching Organization": "مرحباً بكم في منظمة التعليم الإسلامي",
+        "Fostering Knowledge and Understanding": "تعزيز المعرفة والفهم",
+        "Who we are:": ":من نحن",
+        "The Ethiopian Islamic Teaching Association is a dedicated organization committed to fostering Islamic knowledge, values, and community development in Ethiopia &#46; Our association serves as a beacon of education, spiritual growth, and social welfare for all members of the Muslim community &#46; By promoting authentic Islamic teachings and principles, ethiopian islamic teaching association aims to nurture a more informed, united, and compassionate society": "جمعية التعليم الإسلامي الإثيوبية هي منظمة مخصصة ملتزمة بتعزيز المعرفة الإسلامية والقيم وتنمية المجتمع في إثيوبيا - تعمل جمعيتنا كمنارة للتعليم والنمو الروحي والرفاهية الاجتماعية لجميع أعضاء المجتمع المسلم - من خلال تعزيز التعاليم والمبادئ الإسلامية الأصيلة، تهدف جمعية التعليم الإسلامي الإثيوبية إلى رعاية مجتمع أكثر وعياً ووحدة وتعاطفاً",
+        "Our Mission": "مهمتنا",
+        "To provide comprehensive Islamic education, promote moral and ethical values, and empower communities through knowledge, guidance, and social support &#46; The Ethiopian islamic teaching association strives to create an environment where every individual can access high-quality Islamic learning resources and spiritual development opportunities": "توفير التعليم الإسلامي الشامل، وتعزيز القيم الأخلاقية، وتمكين المجتمعات من خلال المعرفة والتوجيه والدعم الاجتماعي - تسعى جمعية التعليم الإسلامي الإثيوبية إلى تيسير بيئة حيث يمكن لكل فرد الوصول إلى موارد التعلم الإسلامية عالية الجودة وفرص التنمية الروحية",
+        "Our Vision": "رؤيتنا",
+        "To be a leading Islamic teaching institution in Ethiopia, recognized for its excellence in education, spiritual guidance, and community service &#46; We envision a future where Islamic teachings inspire compassion, unity, and progress for the betterment of individuals and society as a whole": "أن نكون مؤسسة تعليمية إسلامية رائدة في إثيوبيا، معترف بها لتميزها في التعليم والتوجيه الروحي وخدمة المجتمع - نتصور مستقبلًا حيث تلهم التعاليم الإسلامية الرحمة والوحدة والتقدم من أجل تحسين الأفراد والمجتمع كليا",
+        "Our Core Values": "قيمنا الأساسية",
+        "Knowledge and Learning": "المعرفة والتعلم",
+        "Integrity and Honesty": "النزاهة والصدق",
+        "Compassion and Service": "التعاطف والخدمة",
+        "Unity and Brotherhood": "الوحدة والأخوة",
+        "Spiritual Excellence": "الوحدة والأخوة",
+        "Empowerment and Inclusivity": "التمكين والشمول",
+        ": We are committed to the continuous pursuit of knowledge and education, guided by the teachings of the Qur'an and Sunnah &#46;": ":نحن ملتزمون بالسعي المستمر للحصول على المعرفة والتعليم، مسترشدين بتعاليم القرآن والسنة",
+        ": We uphold the highest standards of integrity and transparency in all our activities and interactions &#46;": ":نحن نحافظ على أعلى معايير النزاهة والشفافية في جميع أنشطتنا وتفاعلاتنا",
+        ": We prioritize compassion and service to others, aiming to uplift and support those in need within our communities &#46;": ": :نحن نعطي الأولوية للتعاطف والخدمة للآخرين، ونهدف إلى رفع مستوى ودعم المحتاجين داخل مجتمعاتنا",
+        ": We promote unity, cooperation, and mutual respect, fostering a sense of brotherhood among all members of the community &#46;": ":نحن نعزز الوحدة والتعاون والاحترام المتبادل، ونعزز الشعور بالأخوة بين جميع أفراد المجتمع",
+        ": We emphasize the importance of spiritual development and encourage adherence to Islamic principles in daily life &#46;": ":نؤكد على أهمية التطور الروحي ونشجع على الالتزام بالمبادئ الإسلامية في الحياة اليومية",
+        ": We strive to empower individuals of all ages and backgrounds to actively participate in community development and educational initiatives &#46;": ":نحن نسعى جاهدين لتمكين الأفراد من جميع الأعمار والخلفيات للمشاركة بنشاط في تنمية المجتمع والمبادرات التعليمية",
+        "Through these guiding principles, Ethiopian islamic teaching association aims to cultivate an environment of learning, spirituality, and social responsibility, contributing to a harmonious and just society &#46;": "ومن خلال هذه المبادئ التوجيهية، تهدف جمعية التعليم الإسلامي الإثيوبية إلى تهيئة بيئة من التعلم والروحانية والمسؤولية الاجتماعية، مما يساهم في بناء مجتمع متناغم وعادل."
     },
     "Courses": {
         "Courses page": "صفحة الدورات"

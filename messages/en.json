@@ -10,8 +10,8 @@
         "Contact Us": "Contacts Us",
         "Admin": "Admin",
         "English": "English",
-        "Arabic": "Arabic",
-        "Amharic": "Amharic"
+        "Arabic": "عربي",
+        "Amharic": "አማርኛ"
     },
     "Dashboard": {
         "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding": "Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding",
@@ -41,7 +41,28 @@
        "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "Join us for enriching seminars and events that deepen your understanding of Islamic teachings"
     },
     "AboutUs": {
-        "About us page": "About us page"
+        "Welcome to the Islamic Teaching Organization": "Welcome to the Islamic Teaching Organization",
+        "Fostering Knowledge and Understanding": "Fostering Knowledge and Understanding",
+        "Who we are:": "Who we are:",
+        "The Ethiopian Islamic Teaching Association is a dedicated organization committed to fostering Islamic knowledge, values, and community development in Ethiopia &#46; Our association serves as a beacon of education, spiritual growth, and social welfare for all members of the Muslim community &#46; By promoting authentic Islamic teachings and principles, ethiopian islamic teaching association aims to nurture a more informed, united, and compassionate society": "The Ethiopian Islamic Teaching Association is a dedicated organization committed to fostering Islamic knowledge, values, and community development in Ethiopia &#46; Our association serves as a beacon of education, spiritual growth, and social welfare for all members of the Muslim community &#46; By promoting authentic Islamic teachings and principles, ethiopian islamic teaching association aims to nurture a more informed, united, and compassionate society",
+        "Our Mission": "Our Mission",
+        "To provide comprehensive Islamic education, promote moral and ethical values, and empower communities through knowledge, guidance, and social support &#46; The Ethiopian islamic teaching association strives to create an environment where every individual can access high-quality Islamic learning resources and spiritual development opportunities": "To provide comprehensive Islamic education, promote moral and ethical values, and empower communities through knowledge, guidance, and social support &#46; The Ethiopian islamic teaching association strives to create an environment where every individual can access high-quality Islamic learning resources and spiritual development opportunities",
+        "Our Vision": "Our Vision",
+        "To be a leading Islamic teaching institution in Ethiopia, recognized for its excellence in education, spiritual guidance, and community service &#46; We envision a future where Islamic teachings inspire compassion, unity, and progress for the betterment of individuals and society as a whole": "To be a leading Islamic teaching institution in Ethiopia, recognized for its excellence in education, spiritual guidance, and community service &#46; We envision a future where Islamic teachings inspire compassion, unity, and progress for the betterment of individuals and society as a whole",
+        "Our Core Values": "Our Core Values",
+        "Knowledge and Learning": "Knowledge and Learning",
+        "Integrity and Honesty": "Integrity and Honesty",
+        "Compassion and Service": "Compassion and Service",
+        "Unity and Brotherhood": "Unity and Brotherhood",
+        "Spiritual Excellence": "Spiritual Excellence",
+        "Empowerment and Inclusivity": "Empowerment and Inclusivity",
+        ": We are committed to the continuous pursuit of knowledge and education, guided by the teachings of the Qur'an and Sunnah &#46;": ": We are committed to the continuous pursuit of knowledge and education, guided by the teachings of the Qur'an and Sunnah &#46;",
+        ": We uphold the highest standards of integrity and transparency in all our activities and interactions &#46;": ": We uphold the highest standards of integrity and transparency in all our activities and interactions &#46;",
+        ": We prioritize compassion and service to others, aiming to uplift and support those in need within our communities &#46;": ": We prioritize compassion and service to others, aiming to uplift and support those in need within our communities &#46;",
+        ": We promote unity, cooperation, and mutual respect, fostering a sense of brotherhood among all members of the community &#46;": ": We promote unity, cooperation, and mutual respect, fostering a sense of brotherhood among all members of the community &#46;",
+        ": We emphasize the importance of spiritual development and encourage adherence to Islamic principles in daily life &#46;": ": We emphasize the importance of spiritual development and encourage adherence to Islamic principles in daily life &#46;",
+        ": We strive to empower individuals of all ages and backgrounds to actively participate in community development and educational initiatives &#46;": ": We strive to empower individuals of all ages and backgrounds to actively participate in community development and educational initiatives &#46;",
+        "Through these guiding principles, Ethiopian islamic teaching association aims to cultivate an environment of learning, spirituality, and social responsibility, contributing to a harmonious and just society &#46;": "Through these guiding principles, Ethiopian islamic teaching association aims to cultivate an environment of learning, spirituality, and social responsibility, contributing to a harmonious and just society &#46;"
     },
     "Courses": {
         "Courses page": "Courses page"

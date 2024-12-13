@@ -9,8 +9,8 @@
         "University": "ዩኒቨርሲቲ",
         "Contact Us": "አግኙን",
         "Admin": "አስተዳዳሪ",
-        "English": "እንግሊዝኛ",
-        "Arabic": "አረብኛ",
+        "English": "English",
+        "Arabic": "عربي",
         "Amharic": "አማርኛ"
     },
     "Dashboard" : {
@@ -41,7 +41,28 @@
        "Join us for enriching seminars and events that deepen your understanding of Islamic teachings": "ስለ ኢስላማዊ አስተምህሮዎች ያለዎትን ግንዛቤ የሚያጎለብቱ ሴሚናሮችን እና ዝግጅቶችን ይቀላቀሉን።"
     },
     "AboutUs": {
-        "About us page": "ስለ እኛ ገጽ"
+        "Welcome to the Islamic Teaching Organization": "እንኳን ወደ ኢስላሚክ ማስተማሪያ ድርጅት በደህና መጡ",
+        "Fostering Knowledge and Understanding": "እውቀትን እና ግንዛቤን ማዳበር",
+        "Who we are:": "እኛ ማን ነን፡-",
+        "The Ethiopian Islamic Teaching Association is a dedicated organization committed to fostering Islamic knowledge, values, and community development in Ethiopia &#46; Our association serves as a beacon of education, spiritual growth, and social welfare for all members of the Muslim community &#46; By promoting authentic Islamic teachings and principles, ethiopian islamic teaching association aims to nurture a more informed, united, and compassionate society": "የኢትዮጵያ እስላማዊ አስተምህሮ ማህበር በኢትዮጵያ ኢስላማዊ እውቀትን፣ እሴቶችን እና የማህበረሰብ ልማትን ለማሳደግ ቁርጠኛ ድርጅት ነው:: ማህበራችን ለሁሉም የሙስሊሙ ማህበረሰብ አባላት የትምህርት፣የመንፈሳዊ እድገት እና የማህበራዊ ደህንነት ማሳያ ሆኖ ያገለግላል። የኢትዮጵያ እስላማዊ አስተምህሮ ማህበር ትክክለኛ የእስልምና አስተምህሮቶችን እና መርሆዎችን በማስተዋወቅ የበለጠ መረጃ ያለው ፣አንድነት ያለው እና አዛኝ ማህበረሰብን ለማሳደግ ያለመ ነው።",
+        "Our Mission": "የእኛ ተልዕኮ",
+        "To provide comprehensive Islamic education, promote moral and ethical values, and empower communities through knowledge, guidance, and social support &#46; The Ethiopian islamic teaching association strives to create an environment where every individual can access high-quality Islamic learning resources and spiritual development opportunities": "ሁሉን አቀፍ ኢስላማዊ ትምህርት ለመስጠት፣ የሞራል እና የስነምግባር እሴቶችን ለማስተዋወቅ እና ማህበረሰቦችን በእውቀት፣ መመሪያ እና ማህበራዊ ድጋፍ ለማበረታታት:: የኢትዮጵያ እስላማዊ አስተምህሮ ማህበር እያንዳንዱ ግለሰብ ከፍተኛ ጥራት ያላቸውን ኢስላማዊ የመማር ግብአቶችን እና የመንፈሳዊ ልማት እድሎችን ማግኘት የሚችልበትን ሁኔታ ለመፍጠር ይተጋል።",
+        "Our Vision": "የእኛ እይታ",
+        "To be a leading Islamic teaching institution in Ethiopia, recognized for its excellence in education, spiritual guidance, and community service &#46; We envision a future where Islamic teachings inspire compassion, unity, and progress for the betterment of individuals and society as a whole": "በትምህርት፣ በመንፈሳዊ መመሪያ እና በማህበረሰብ አገልግሎት የላቀ እውቅና ያገኘ የእስልምና አስተምህሮ ተቋም መሪ መሆን እና የእስልምና አስተምህሮዎች ርህራሄን፣ አንድነትን እና መሻሻልን ለግለሰቦች እና ለህብረተሰቡ በአጠቃላይ መሻሻል የሚያደርጉበትን የወደፊት ጊዜ እናስባለን።",
+        "Our Core Values": "ዋና እሴቶቻችን",
+        "Knowledge and Learning": "እውቀት እና ትምህርት",
+        "Integrity and Honesty": "ታማኝነት",
+        "Compassion and Service": "ርህራሄ እና አገልግሎት",
+        "Unity and Brotherhood": "አንድነት እና ወንድማማችነት",
+        "Spiritual Excellence": "መንፈሳዊ ልቀት",
+        "Empowerment and Inclusivity": "ማጎልበት እና ማካተት",
+        ": We are committed to the continuous pursuit of knowledge and education, guided by the teachings of the Qur'an and Sunnah &#46;": ": በቁርኣንና በሱና አስተምህሮዎች እየተመራን ያለማቋረጥ እውቀትን እና ትምህርትን ለመከታተል ቁርጠኛ ነን።",
+        ": We uphold the highest standards of integrity and transparency in all our activities and interactions &#46;": ":በሁሉም እንቅስቃሴዎቻችን እና ግንኙነቶች ውስጥ ከፍተኛውን የታማኝነት እና የግልጽነት ደረጃዎችን እናከብራለን",
+        ": We prioritize compassion and service to others, aiming to uplift and support those in need within our communities &#46;": ": በማህበረሰባችን ውስጥ የተቸገሩትን ለማንሳት እና ለመደገፍ በማሰብ ለሌሎች ርህራሄ እና አገልግሎት እንሰጣለን",
+        ": We promote unity, cooperation, and mutual respect, fostering a sense of brotherhood among all members of the community &#46;": ":በሁሉም የማህበረሰቡ አባላት መካከል የወንድማማችነት ስሜትን በማጎልበት አንድነትን፣ ትብብርን እና መከባበርን እናበረታታለን።",
+        ": We emphasize the importance of spiritual development and encourage adherence to Islamic principles in daily life &#46;": ": የመንፈሳዊ እድገትን አስፈላጊነት አፅንዖት እንሰጣለን እና በዕለት ተዕለት ሕይወት ውስጥ የእስልምና መርሆችን እንዲከተሉ እናበረታታለን።",
+        ": We strive to empower individuals of all ages and backgrounds to actively participate in community development and educational initiatives &#46;": ": በሁሉም እድሜ እና አስተዳደግ ላይ ያሉ ግለሰቦች በማህበረሰብ ልማት እና ትምህርታዊ ተነሳሽነት ላይ በንቃት እንዲሳተፉ ለማበረታታት እንተጋለን",
+        "Through these guiding principles, Ethiopian islamic teaching association aims to cultivate an environment of learning, spirituality, and social responsibility, contributing to a harmonious and just society &#46;": "በእነዚህ የመመሪያ መርሆች፣ የኢትዮጵያ እስላማዊ አስተምህሮ ማህበር ዓላማ ያለው የትምህርት፣ መንፈሳዊነት እና ማህበራዊ ኃላፊነትን በማዳበር እርስ በርሱ የሚስማማና ፍትሃዊ ማህበረሰብ እንዲሰፍን አስተዋፅዖ ያደርጋል።"
     },
     "Courses": {
         "Courses page": "የኮርሶች ገጽ"

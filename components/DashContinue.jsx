@@ -105,10 +105,10 @@ const DashContinue = () => {
   return (
     <div className='flex flex-col gap-10 p-4 group'>
       {slider[currentIndex].slide}
-      <div className='hidden group-hover:block absolute top-[120%] -translate-x-0 translate-y-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer'>
+      <div className='hidden group-hover:block absolute top-[140%] -translate-x-0 translate-y-[50%] left-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer'>
         <BsChevronCompactLeft size={50} onClick={prevSlide}/>
       </div>
-      <div className='hidden group-hover:block absolute top-[120%] -translate-x-0 translate-y-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer'>
+      <div className='hidden group-hover:block absolute top-[140%] -translate-x-0 translate-y-[50%] right-5 text-2xl rounded-full p-2 bg-black/20 text-white cursor-pointer'>
         <BsChevronCompactRight size={50} onClick={nextSlide}/>
       </div>
       <div className = 'flex top-4 justify-center py-2'>
@@ -126,7 +126,7 @@ const DashContinue = () => {
         ))}
       </div>
       <hr />
-      <div className='flex flex-col gap-10'>
+      <div className='flex flex-col gap-10 bg-black/20 p-3 rounded-xl'>
         <h3 className='text-center font-serif font-semibold text-2xl'>{t("Explore Our Courses")}</h3>
         <h4 className='text-center font-mono text-xl'>{t("Engage with our comprehensive curriculum designed for learners at all levels")}</h4>
         <div className='flex flex-col gap-10'>
@@ -178,7 +178,7 @@ const DashContinue = () => {
         </div>
         <button 
         onClick={() => navigation.push('Courses')}
-        className='bg-stone-300 p-3 rounded-xl w-fit self-center'>
+        className='bg-green-600 p-3 rounded-xl w-fit self-center'>
           {t("Get Involved")}
         </button>
       </div>
