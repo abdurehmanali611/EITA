@@ -12,7 +12,7 @@ const Dashboard = () => {
     style={{backgroundImage: `url(${'/assets/background.jpg'})`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundSize: '100%'}}
     className='flex flex-col gap-10 h-[500px] justify-center'>
         <div className='flex flex-col gap-5 text-center w-[50%] self-center'>
-            <p className='font-mono text-lg'>
+            <p className='font-mono text-xl'>
              {t("Empowering minds through the profound teachings of Islam, fostering a community of knowledge and understanding")}
             </p>
             <h4 className='font-mono text-2xl font-semibold'>
