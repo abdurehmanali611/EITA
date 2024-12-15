@@ -75,6 +75,33 @@ export default function page() {
              </div>
          </div>
       </div>
+      <div className='flex flex-col gap-10 mx-4 bg-stone-300 p-4 rounded-xl'>
+          <h3 className='text-center font-serif font-semibold text-2xl'>{t("Enroll now")}</h3>
+          <h4 className='text-center font-mono text-xl'>{t("Join a community of learners")}</h4>
+          <div className='flex justify-between gap-10'>
+            <div className='bg-slate-400 p-3 rounded-xl flex flex-col gap-5'>
+              <h3 className='text-center font-serif font-semibold text-xl'>{t("Eligibility Criteria")}</h3>
+              <p className='text-lg font-mono'>
+              {t("To enroll in our courses, students should meet specific eligibility criteria, which include having a foundational understanding of Islamic teachings    For advanced courses, prior completion of prerequisite courses may be required    We encourage all interested individuals to review the course descriptions carefully to ensure they meet the necessary qualifications before applying")}
+              </p>
+            </div>
+            <div className='bg-slate-400 p-3 rounded-xl flex flex-col gap-5'>
+              <h3 className='text-center font-serif font-semibold text-xl'>{t("Application Process")}</h3>
+              <p className='text-lg font-mono'>
+              {t("The application process is straightforward and can be completed online through our website   Interested students must fill out the application form, providing necessary details such as educational background and areas of interest    Once submitted, our administrative team will review the application and notify applicants of their acceptance via email, along with further instructions for enrollment")}
+              </p>
+            </div>
+          </div>
+          <div className='bg-slate-400 p-3 rounded-xl flex flex-col gap-5 w-[48%]'>
+              <h3 className='text-center font-serif font-semibold text-xl'>{t("Payment Options")}</h3>
+              <p className='text-lg font-mono'>
+               {t("We offer flexible payment options to accommodate all students   Payments can be made through credit/debit cards, bank transfers, or installment plans, depending on the course structure     Detailed information about course fees and payment deadlines will be provided upon acceptance into the program,ensuring that students can choose the method that best suits their financial situation")}
+              </p>
+            </div>
+          <button className='bg-green-300 w-fit px-8 rounded-xl py-2 self-center'>
+            {t("Apply")}
+          </button>
+      </div>
     </div>
   )
 }
