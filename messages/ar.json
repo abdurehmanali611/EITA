@@ -104,7 +104,13 @@
         "University page": "صفحة الجامعة"
     },
     "Contacts": {
-        "contacts page": "صفحة جهات الاتصال"
+        "Ethiopian Islamic Teaching Association": "جمعية الإثيوبية للتعاليم الإسلامية",
+        "Reach Out to Us": "تواصل معنا",
+        "We value Your thoughts and questions": "نحن نقدر أفكارك وأسئلتك",
+        "Your name": "اسمك",
+        "Email": "بريد إلكتروني",
+        "message": "رسالة",
+        "Submit": "قدّم"
     },
     "Admin": {
         "Admin Page": "صفحة المشرف"
