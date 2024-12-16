@@ -102,6 +102,55 @@ export default function page() {
             {t("Apply")}
           </button>
       </div>
+      <div className='flex flex-col gap-10 mx-4 p-4'>
+        <h3 className='text-center font-serif font-semibold text-2xl'>{t("What Our Students Say")}</h3>
+        <h4 className='text-center font-mono text-xl'>{t("Hear from those who have walked the path")}</h4>
+        <div className='flex justify-between gap-10 items-center'>
+          <Image 
+          src='/assets/student_1.webp'
+          alt='Student 1'
+          width={400}
+          height={400}
+          className='rounded-xl'
+          />
+          <div className='flex flex-col gap-10 items-center'>
+            <h3 className='font-serif font-semibold text-xl'>{t("Transformative Experience")}</h3>
+            <p className='text-center font-mono text-lg w-[50%]'>
+            {t("Attending the Islamic Jurisprudence course was a transformative experience for me    I gained insights that not only deepened my understanding of Islamic law but also equipped me to navigate real-life issues with confidence")}
+            </p>
+          </div>
+        </div>
+        <div className='flex justify-between gap-10 items-center'>
+          <div className='flex flex-col gap-10 items-center'>
+            <h3 className='font-serif font-semibold text-xl'>{t("Invaluable Knowledge")}</h3>
+            <p className='font-mono text-lg text-center w-[50%]'>
+            {t("The Quranic Studies course provided me with invaluable knowledge about the Quran     The discussions and analyses helped me appreciate its depth and relevance in today&apos;s world, enriching my spiritual journey")}
+            </p>
+          </div>
+          <Image 
+          src='/assets/student_2.webp'
+          alt='Student 2'
+          width={400}
+          height={400}
+          className='rounded-xl'
+          />
+        </div>
+        <div className='flex justify-between items-center gap-10'>
+          <Image 
+          src='/assets/student_3.webp'
+          alt='Student 3'
+          width={400}
+          height={400}
+          className='rounded-xl'
+          />
+          <div className='flex flex-col gap-10 items-center'>
+            <h3 className='font-serif font-semibold text-xl'>{t("Community and Support")}</h3>
+            <p className='text-center font-mono text-lg w-[50%]'>
+              {t("What I loved most about the Prophetic Traditions course was the sense of community and support among students    The environment fostered respectful dialogue, allowing us to learn from each other&apos;s perspectives and experiences")}
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
